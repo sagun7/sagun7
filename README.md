@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sagun Panthi.
-- 👀 I’m interested in Blockchain, Web Development.
-- 🌱 I’m currently learning Blockchain, Ethereum. Smart Contract, Hardhat, Javascript, React, Node, Solidity
+- 👀 I’m interested in Front End Developer.
+- 🌱 I’m currently learning Javascript, ReactJS, Redux, NextJS, Typescript, Node, Express, MongoDB
 - 💞️ I’m looking to collaborate with startups.
 - 📫 Reach me out through Linkedin ( Sagun Panthi).
 
