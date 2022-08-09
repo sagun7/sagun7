@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sagun Panthi.
 - 👀 I’m interested in Front End Developer.
 - 🌱 I’m currently learning Javascript, ReactJS, Redux, NextJS, Typescript, Node, Express, MongoDB
-- 💞️ I’m looking to collaborate with startups.
+- 🤝 I’m looking to collaborate with startups.
 - 📫 Reach me out through Linkedin ( Sagun Panthi).
 
 <!---
