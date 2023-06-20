@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sagun Panthi.
-- 👀 I’m interested in Front End Development.
-- 🌱 I’m currently learning Javascript, ReactJS, Redux, NextJS, Typescript, Node, Express, MongoDB
+- 👀 I’m a full stack developer
+- 🌱 I have skills in Javascript, ReactJS, Redux, NextJS, Typescript, Node, Express, MongoDB and many more
 - 🤝 I’m looking to collaborate with startups.
 - 📫 Reach me out through Linkedin ( Sagun Panthi).
 
